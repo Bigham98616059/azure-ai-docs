@@ -1,7 +1,0 @@
-- name: Azure
-  tocHref: /azure/
-  topicHref: /azure/index
-  items:
-  - name: Microsoft Foundry
-    tocHref: /azure/ai-foundry/
-    topicHref: /azure/ai-foundry/index
